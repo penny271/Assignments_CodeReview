@@ -1,2 +1,2 @@
-# -_-
+# Assignments_CodeReview
 頂いた課題のコードレビューをお願いいたします。
