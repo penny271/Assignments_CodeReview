@@ -32,7 +32,7 @@
    const promptGenre = prompt("ジャンルを入力してください"); //*popup2 NEW
    alert("新しいタスクを追加しました");//*popup3
 
-   originalTasks["3"] = `${content}${promptTask}${genre}${promptGenre}`;
+   originalTasks["3"] = `${content}${promptTask}${genre}${promptGenre}`; 
 
    showlists();
 
